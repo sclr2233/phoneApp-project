@@ -1,0 +1,86 @@
+{
+  "id": "4828602",
+  "name": "课程logo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1374300",
+      "name": "icon-home",
+      "font_class": "icon-home",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "3537344",
+      "name": "icon_icon",
+      "font_class": "icon_icon",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "5782423",
+      "name": "icon_h",
+      "font_class": "icon_h",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "16387128",
+      "name": "icon-java",
+      "font_class": "icon-java",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "17602723",
+      "name": "icon_dashuju",
+      "font_class": "icon_dashuju",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "22382455",
+      "name": "icon-shujufenxi-",
+      "font_class": "icon-shujufenxi-",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "27101094",
+      "name": "icon_houduan",
+      "font_class": "icon_houduanruzhi",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "37471323",
+      "name": "icon人工智能",
+      "font_class": "iconrengongzhineng",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "43191446",
+      "name": "icon-suanfaku",
+      "font_class": "guanbi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "43191451",
+      "name": "icon-rengongzhineng",
+      "font_class": "erji",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "43191460",
+      "name": "icon-ruanjianceshi",
+      "font_class": "guanbi1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}

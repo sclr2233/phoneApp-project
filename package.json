@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.5.7",
+    "axios": "^1.7.9",
+    "crypto-js": "^4.2.0",
+    "dayjs": "^1.11.13",
+    "pdfjs-dist": "^5.0.375"
+  },
+  "devDependencies": {
+    "eslint-plugin-vue": "^10.0.0",
+    "sass": "^1.63.2",
+    "sass-loader": "^10.4.1"
+  }
+}

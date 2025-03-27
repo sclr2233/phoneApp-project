@@ -1,0 +1,188 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	
+		{
+			"path" : "pages/tabbar/index/index",
+			"style" : 
+			{
+				"navigationBarTitleText" : "首页",
+				"navigationStyle" : "custom"
+			}
+		},
+		{
+			"path" : "pages/tabbar/classify/classify",
+			"style" : 
+			{
+				"navigationBarTitleText" : "分类",
+				"navigationBarBackgroundColor" : "#00b783",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/tabbar/perform/perform",
+			"style" : 
+			{
+				"navigationBarTitleText" : "活动演出",
+				"navigationBarBackgroundColor" : "#00b783",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/tabbar/mine/mine",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人中心",
+				"navigationBarBackgroundColor" : "#00b783",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		
+		{
+			"path" : "pages/course/courseintroduce/courseintroduce",
+			"style" : 
+			{
+				"navigationBarTitleText" : "课程介绍",
+				"navigationBarBackgroundColor" : "#0c9c8f",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/course/courseintroduce/goodcourseInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "经典课程",
+				"navigationBarBackgroundColor" : "#0c9c8f",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/course/videos/videos",
+			"style" : 
+			{
+				"navigationBarTitleText" : "课程播放",
+				"navigationBarBackgroundColor" : "#0c9c8f",
+				"navigationBarTextStyle" : "white",
+				"enablePullDownRefresh": false
+			}
+		},
+		
+		{
+			"path" : "pages/login/loginPWD/loginPWD",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/login/loginSMS/loginSMS",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/register/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/text/terms/terms",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/text/privacy/privacy",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/membership/membership",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/mylist/cartList/cartList",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/mylist/mycourse/mycourse",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/mylist/aboutUS/aboutUS",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/mylist/mymoney/mymoney",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/login/wechat-login/wechat-login",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+				
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "black",
+		"selectedStyle": "00b783",
+		"borderColor":"#fff",
+		"backgroundColor":"#f8f8f8",
+		"list":[
+			{
+				"pagePath": "pages/tabbar/index/index",
+				"text":"首页",
+				"iconPath": "/static/tabbar1.png"
+			},
+			{
+				"pagePath": "pages/tabbar/classify/classify",
+				"text":"分类",
+				"iconPath": "/static/tabbar2.png"	
+			},
+			{
+				"pagePath": "pages/tabbar/perform/perform",
+				"text":"演出",
+				"iconPath": "/static/tabbar3.png"	
+			},
+			{
+				"pagePath": "pages/tabbar/mine/mine",
+				"text":"我的",
+				"iconPath": "/static/tabbar4.png"	
+			}
+		]
+	}
+			
+}
